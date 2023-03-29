@@ -1,0 +1,8 @@
+asyncio
+openai
+python-telegram-bot
+requests
+yfinance
+qrcode
+bip32utils
+bip39
